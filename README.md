@@ -1,4 +1,4 @@
-ReST
+# ReST
 
 representational state transfer
 
@@ -16,7 +16,7 @@ DELETE    |  /todos/:id      |    destroy
 
 
 
-MVC
+# MVC
 
 model - logic, communicates with the DB
 
