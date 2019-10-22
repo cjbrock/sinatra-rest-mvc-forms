@@ -4,15 +4,15 @@ representational state transfer
 
 7 standard restful routes
 
-| HTTP verb  |  Route  |      Action |
-
-| GET   |      /todos    |          index |
-|GET     |    /todos/:id      |    show |
-| GET     |    /todos/new      |    new |
-| GET      |   /todos/:id/edit  |   edit |
-| POST     |   /todos          |    create |
-| PUT/PATCH  |  /todos/:id     |     update |
-| DELETE   |   /todos/:id       |   destroy |
+HTTP verb  |  Route  |      Action
+-----------|----------|-----------
+GET     |    /todos        |      index
+GET     |    /todos/:id    |    show
+GET    |    /todos/new      |    new
+GET     |    /todos/:id/edit  |   edit
+POST     |   /todos          |    create
+PUT/PATCH  | /todos/:id      |    update
+DELETE    |  /todos/:id      |    destroy
 
 
 
